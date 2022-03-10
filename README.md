@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @seleneaega
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning how to develop an application and is new to the programming world
 - 📫 How to reach me fraulynjylperez13@gmail.com
 
